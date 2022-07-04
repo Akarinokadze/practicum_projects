@@ -30,4 +30,5 @@
 ## Используемый стек
 
 Jupyter Notebook
+
 Python - pandas
